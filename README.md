@@ -6,7 +6,7 @@ year.
 
 The plan is to create three OpenType fonts:
 
-Carthage Alte:
+Carthage Alphabetic:
 : A font including glyphs for many of the archaic alphabetical languages around
   the Eastern part of the Mediterranean Sea from Libya, Egypt, Canaan, Anatolia,
   and further east through Mesopotamia. Mostly scripts that were in use from
@@ -14,11 +14,11 @@ Carthage Alte:
   Hebrew that are still in use today, the letter forms will be closer to the
   older letter forms than to modern when there is a difference.
 
-Carthage Veraltete:
+Carthage Cuneiform:
 : A font for cuneiform codepoints. As these are not an alphabetic script, they
   really should be in a distinct font file.
 
-Carthage Neue:
+Carthage Arabic:
 : This will cover Arabic and only Arabic. Arabic is complex enough of a script
   that I believe it belongs in its own font. This font will likely have to have
   the glyphs drawn by someone very familiar with Arabic.
